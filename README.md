@@ -8,7 +8,7 @@ NOM 					: ETNA_MOVIES
 
 LANGAGES				: PHP et MongoDB
 
-AUTEURS					: Mossab Kaimouni 
+AUTEUR					: Mossab Kaimouni 
 
 DESCRIPTION 			: Etna_movies est un service de location de de films 						   		     				 pour les etudiant de l'Etna.
 
